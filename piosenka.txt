@@ -2,10 +2,7 @@ zwrotka1.txt
 
 refren1.txt
 
-Wiele dziewcząt jest na świecie
-Lecz najwięcej w Ukrainie
-Tam me serce pozostało
-Przy kochanej mej dziewczynie
+zwrotka2.txt
 
 Hej, hej, hej sokoły
 Omijajcie góry, lasy, pola, doły
