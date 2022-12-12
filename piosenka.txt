@@ -1,7 +1,4 @@
-Hej, tam gdzieś znad Czarnej Wody
-Siada na koń Kozak młody
-Czule żegna się z dziewczyną
-Jeszcze czulej z Ukrainą
+zwrotka1.txt
 
 Hej, hej, hej sokoły
 Omijajcie góry, lasy, pola, doły
