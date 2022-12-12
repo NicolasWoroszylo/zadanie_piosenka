@@ -1,13 +1,6 @@
 zwrotka1.txt
 
-Hej, hej, hej sokoły
-Omijajcie góry, lasy, pola, doły
-Dzwoń, dzwoń, dzwoń dzwoneczku
-Mój stepowy skowroneczku
-Hej, hej, hej sokoły
-Omijajcie góry, lasy, pola, doły
-Dzwoń, dzwoń, dzwoń dzwoneczku
-Mój stepowy, dzwoń, dzwoń, dzwoń
+refren1.txt
 
 Wiele dziewcząt jest na świecie
 Lecz najwięcej w Ukrainie
