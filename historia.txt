@@ -1,0 +1,184 @@
+PS C:\Users\User\Desktop\zadanie piosenka> git log -p piosenka.txt
+commit 6f630b059c10cc1cf363b417901f2b571687236d (HEAD -> master)
+Author: Nicolas <woroszylomikolaj@gmail.com>
+Date:   Tue Dec 13 01:17:13 2022 +0100
+
+    poprawienie nazwy z refren1 na refre opisujacy wszystykie wystepujace refreny
+
+diff --git a/piosenka.txt b/piosenka.txt
+index 7dfee3c..64bf574 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -1,11 +1,11 @@
+ zwrotka1.txt
+
+-refren1.txt
++refren.txt
+
+ zwrotka2.txt
+
+:...skipping...
+commit 6f630b059c10cc1cf363b417901f2b571687236d (HEAD -> master)
+Author: Nicolas <woroszylomikolaj@gmail.com>
+Date:   Tue Dec 13 01:17:13 2022 +0100
+
+    poprawienie nazwy z refren1 na refre opisujacy wszystykie wystepujace refreny
+
+diff --git a/piosenka.txt b/piosenka.txt
+index 7dfee3c..64bf574 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -1,11 +1,11 @@
+ zwrotka1.txt
+
+-refren1.txt
++refren.txt
+
+ zwrotka2.txt
+
+-refren1.txt
++refren.txt
+
+ zwrotka3.txt
+
+-refren1.txt
+\ No newline at end of file
++refren.txt
+\ No newline at end of file
+
+:...skipping...
+commit 6f630b059c10cc1cf363b417901f2b571687236d (HEAD -> master)
+Author: Nicolas <woroszylomikolaj@gmail.com>
+Date:   Tue Dec 13 01:17:13 2022 +0100
+
+    poprawienie nazwy z refren1 na refre opisujacy wszystykie wystepujace refreny
+
+diff --git a/piosenka.txt b/piosenka.txt
+index 7dfee3c..64bf574 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -1,11 +1,11 @@
+ zwrotka1.txt
+
+-refren1.txt
++refren.txt
+
+ zwrotka2.txt
+
+-refren1.txt
++refren.txt
+
+ zwrotka3.txt
+
+-refren1.txt
+\ No newline at end of file
++refren.txt
+\ No newline at end of file
+
+commit 111e381f9cdca292f1c0f8344928ac3f5aff9d41
+Author: Nicolas <woroszylomikolaj@gmail.com>
+Date:   Tue Dec 13 01:14:48 2022 +0100
+
+:...skipping...
+commit 6f630b059c10cc1cf363b417901f2b571687236d (HEAD -> master)
+Author: Nicolas <woroszylomikolaj@gmail.com>
+Date:   Tue Dec 13 01:17:13 2022 +0100
+
+    poprawienie nazwy z refren1 na refre opisujacy wszystykie wystepujace refreny
+
+diff --git a/piosenka.txt b/piosenka.txt
+index 7dfee3c..64bf574 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -1,11 +1,11 @@
+ zwrotka1.txt
+
+-refren1.txt
++refren.txt
+
+ zwrotka2.txt
+
+-refren1.txt
++refren.txt
+
+ zwrotka3.txt
+
+-refren1.txt
+\ No newline at end of file
+commit 6f630b059c10cc1cf363b417901f2b571687236d (HEAD -> master)
+Author: Nicolas <woroszylomikolaj@gmail.com>
+Date:   Tue Dec 13 01:17:13 2022 +0100
+
+    poprawienie nazwy z refren1 na refre opisujacy wszystykie wystepujace refreny
+
+diff --git a/piosenka.txt b/piosenka.txt
+index 7dfee3c..64bf574 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -1,11 +1,11 @@
+ zwrotka1.txt
+ 
+commit 6f630b059c10cc1cf363b417901f2b571687236d (HEAD -> master)
+Author: Nicolas <woroszylomikolaj@gmail.com>
+Date:   Tue Dec 13 01:17:13 2022 +0100
+
+    poprawienie nazwy z refren1 na refre opisujacy wszystykie wystepujace refreny
+
+diff --git a/piosenka.txt b/piosenka.txt
+commit 6f630b059c10cc1cf363b417901f2b571687236d (HEAD -> master)
+Author: Nicolas <woroszylomikolaj@gmail.com>
+Date:   Tue Dec 13 01:17:13 2022 +0100
+
+    poprawienie nazwy z refren1 na refre opisujacy wszystykie wystepujace refreny
+
+diff --git a/piosenka.txt b/piosenka.txt
+index 7dfee3c..64bf574 100644
+commit 6f630b059c10cc1cf363b417901f2b571687236d (HEAD -> master)
+Author: Nicolas <woroszylomikolaj@gmail.com>
+Date:   Tue Dec 13 01:17:13 2022 +0100
+
+    poprawienie nazwy z refren1 na refre opisujacy wszystykie wystepujace refreny
+
+diff --git a/piosenka.txt b/piosenka.txt
+index 7dfee3c..64bf574 100644
+--- a/piosenka.txt
+commit 6f630b059c10cc1cf363b417901f2b571687236d (HEAD -> master)
+Author: Nicolas <woroszylomikolaj@gmail.com>
+Date:   Tue Dec 13 01:17:13 2022 +0100
+
+    poprawienie nazwy z refren1 na refre opisujacy wszystykie wystepujace refreny
+
+diff --git a/piosenka.txt b/piosenka.txt
+index 7dfee3c..64bf574 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -1,11 +1,11 @@
+ zwrotka1.txt
+commit 6f630b059c10cc1cf363b417901f2b571687236d (HEAD -> master)
+Author: Nicolas <woroszylomikolaj@gmail.com>
+Date:   Tue Dec 13 01:17:13 2022 +0100
+
+    poprawienie nazwy z refren1 na refre opisujacy wszystykie wystepujace refreny
+
+diff --git a/piosenka.txt b/piosenka.txt
+index 7dfee3c..64bf574 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -1,11 +1,11 @@
+ zwrotka1.txt
+ 
+-refren1.txt
++refren.txt
+ 
+ zwrotka2.txt
+ 
+-refren1.txt
++refren.txt
+ 
+ zwrotka3.txt
+ 
+-refren1.txt
+\ No newline at end of file
++refren.txt
+\ No newline at end of file
+:
