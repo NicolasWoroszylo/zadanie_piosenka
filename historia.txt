@@ -364,4 +364,22 @@ index 0000000..b881f36
 +Omijajcie góry, lasy, pola, doły
 +Dzwoń, dzwoń, dzwoń dzwoneczku
 +Mój stepowy, dzwoń, dzwoń, dzwoń
-:
+:PS C:\Users\User\Desktop\zadanie piosenka> git log -p zwrotka1.txt
+commit 368683bd097461b253f7401a3670f0f9af0b0e1e
+Author: Nicolas <woroszylomikolaj@gmail.com>
+Date:   Tue Dec 13 00:42:44 2022 +0100
+
+    dodano zwrotka1
+
+diff --git a/zwrotka1.txt b/zwrotka1.txt
+new file mode 100644
+index 0000000..9f56cdd
+--- /dev/null
++++ b/zwrotka1.txt
+@@ -0,0 +1,4 @@
++Hej, tam gdzieś znad Czarnej Wody
++Siada na koń Kozak młody
++Czule żegna się z dziewczyną
++Jeszcze czulej z Ukrainą
+\ No newline at end of file
+PS C:\Users\User\Desktop\zadanie piosenka>
