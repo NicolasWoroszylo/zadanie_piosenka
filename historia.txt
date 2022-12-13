@@ -181,4 +181,187 @@ index 7dfee3c..64bf574 100644
 \ No newline at end of file
 +refren.txt
 \ No newline at end of file
+:PS C:\Users\User\Desktop\zadanie piosenka> git log -p refren.txt
+commit 6f630b059c10cc1cf363b417901f2b571687236d (HEAD -> master)
+Author: Nicolas <woroszylomikolaj@gmail.com>
+Date:   Tue Dec 13 01:17:13 2022 +0100
+
+    poprawienie nazwy z refren1 na refre opisujacy wszystykie wystepujace refreny
+
+diff --git a/refren.txt b/refren.txt
+new file mode 100644
+index 0000000..b881f36
+--- /dev/null
++++ b/refren.txt
+@@ -0,0 +1,8 @@
++Hej, hej, hej sokoły
++Omijajcie góry, lasy, pola, doły
++Dzwoń, dzwoń, dzwoń dzwoneczku
++Mój stepowy skowroneczku
++Hej, hej, hej sokoły
++Omijajcie góry, lasy, pola, doły
+:...skipping...
+commit 6f630b059c10cc1cf363b417901f2b571687236d (HEAD -> master)
+Author: Nicolas <woroszylomikolaj@gmail.com>
+Date:   Tue Dec 13 01:17:13 2022 +0100
+
+    poprawienie nazwy z refren1 na refre opisujacy wszystykie wystepujace refreny
+
+diff --git a/refren.txt b/refren.txt
+new file mode 100644
+index 0000000..b881f36
+--- /dev/null
++++ b/refren.txt
+@@ -0,0 +1,8 @@
++Hej, hej, hej sokoły
++Omijajcie góry, lasy, pola, doły
++Dzwoń, dzwoń, dzwoń dzwoneczku
++Mój stepowy skowroneczku
++Hej, hej, hej sokoły
++Omijajcie góry, lasy, pola, doły
++Dzwoń, dzwoń, dzwoń dzwoneczku
++Mój stepowy, dzwoń, dzwoń, dzwoń
+\ No newline at end of file
+~
+~
+~
+~
+~
+~
+~
+(END)...skipping...
+commit 6f630b059c10cc1cf363b417901f2b571687236d (HEAD -> master)
+Author: Nicolas <woroszylomikolaj@gmail.com>
+Date:   Tue Dec 13 01:17:13 2022 +0100
+
+    poprawienie nazwy z refren1 na refre opisujacy wszystykie wystepujace refreny
+
+diff --git a/refren.txt b/refren.txt
+new file mode 100644
+index 0000000..b881f36
+--- /dev/null
++++ b/refren.txt
+@@ -0,0 +1,8 @@
++Hej, hej, hej sokoły
++Omijajcie góry, lasy, pola, doły
++Dzwoń, dzwoń, dzwoń dzwoneczku
++Mój stepowy skowroneczku
++Hej, hej, hej sokoły
++Omijajcie góry, lasy, pola, doły
++Dzwoń, dzwoń, dzwoń dzwoneczku
++Mój stepowy, dzwoń, dzwoń, dzwoń
+\ No newline at end of file
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(END)...skipping...
+commit 6f630b059c10cc1cf363b417901f2b571687236d (HEAD -> master)
+Author: Nicolas <woroszylomikolaj@gmail.com>
+Date:   Tue Dec 13 01:17:13 2022 +0100
+
+    poprawienie nazwy z refren1 na refre opisujacy wszystykie wystepujace refreny
+
+diff --git a/refren.txt b/refren.txt
+new file mode 100644
+index 0000000..b881f36
+--- /dev/null
++++ b/refren.txt
+@@ -0,0 +1,8 @@
++Hej, hej, hej sokoły
++Omijajcie góry, lasy, pola, doły
++Dzwoń, dzwoń, dzwoń dzwoneczku
++Mój stepowy skowroneczku
++Hej, hej, hej sokoły
++Omijajcie góry, lasy, pola, doły
++Dzwoń, dzwoń, dzwoń dzwoneczku
++Mój stepowy, dzwoń, dzwoń, dzwoń
+\ No newline at end of file
+~
+~
+~
+~
+commit 6f630b059c10cc1cf363b417901f2b571687236d (HEAD -> master)
+Author: Nicolas <woroszylomikolaj@gmail.com>
+Date:   Tue Dec 13 01:17:13 2022 +0100
+
+    poprawienie nazwy z refren1 na refre opisujacy wszystykie wystepujace refreny
+
+diff --git a/refren.txt b/refren.txt
+new file mode 100644
+index 0000000..b881f36
+--- /dev/null
++++ b/refren.txt
+@@ -0,0 +1,8 @@
++Hej, hej, hej sokoły
+commit 6f630b059c10cc1cf363b417901f2b571687236d (HEAD -> master)
+Author: Nicolas <woroszylomikolaj@gmail.com>
+Date:   Tue Dec 13 01:17:13 2022 +0100
+
+    poprawienie nazwy z refren1 na refre opisujacy wszystykie wystepujace refreny
+
+diff --git a/refren.txt b/refren.txt
+commit 6f630b059c10cc1cf363b417901f2b571687236d (HEAD -> master)
+Author: Nicolas <woroszylomikolaj@gmail.com>
+Date:   Tue Dec 13 01:17:13 2022 +0100
+
+    poprawienie nazwy z refren1 na refre opisujacy wszystykie wystepujace refreny
+
+diff --git a/refren.txt b/refren.txt
+new file mode 100644
+commit 6f630b059c10cc1cf363b417901f2b571687236d (HEAD -> master)
+Author: Nicolas <woroszylomikolaj@gmail.com>
+Date:   Tue Dec 13 01:17:13 2022 +0100
+
+    poprawienie nazwy z refren1 na refre opisujacy wszystykie wystepujace refreny
+
+diff --git a/refren.txt b/refren.txt
+new file mode 100644
+index 0000000..b881f36
+commit 6f630b059c10cc1cf363b417901f2b571687236d (HEAD -> master)
+Author: Nicolas <woroszylomikolaj@gmail.com>
+Date:   Tue Dec 13 01:17:13 2022 +0100
+
+    poprawienie nazwy z refren1 na refre opisujacy wszystykie wystepujace refreny
+
+diff --git a/refren.txt b/refren.txt
+new file mode 100644
+index 0000000..b881f36
+--- /dev/null
++++ b/refren.txt
+@@ -0,0 +1,8 @@
+commit 6f630b059c10cc1cf363b417901f2b571687236d (HEAD -> master)
+Author: Nicolas <woroszylomikolaj@gmail.com>
+Date:   Tue Dec 13 01:17:13 2022 +0100
+
+    poprawienie nazwy z refren1 na refre opisujacy wszystykie wystepujace refreny
+
+diff --git a/refren.txt b/refren.txt
+commit 6f630b059c10cc1cf363b417901f2b571687236d (HEAD -> master)
+Author: Nicolas <woroszylomikolaj@gmail.com>
+Date:   Tue Dec 13 01:17:13 2022 +0100
+
+    poprawienie nazwy z refren1 na refre opisujacy wszystykie wystepujace refreny
+
+diff --git a/refren.txt b/refren.txt
+new file mode 100644
+index 0000000..b881f36
+--- /dev/null
++++ b/refren.txt
+@@ -0,0 +1,8 @@
++Hej, hej, hej sokoły
++Omijajcie góry, lasy, pola, doły
++Dzwoń, dzwoń, dzwoń dzwoneczku
++Mój stepowy skowroneczku
++Hej, hej, hej sokoły
++Omijajcie góry, lasy, pola, doły
++Dzwoń, dzwoń, dzwoń dzwoneczku
++Mój stepowy, dzwoń, dzwoń, dzwoń
 :
