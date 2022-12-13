@@ -421,3 +421,92 @@ index 0000000..303cbd6
 +Dniem i nocą tęsknię do niej
 \ No newline at end of file
 PS C:\Users\User\Desktop\zadanie piosenka>
+On branch master
+nothing to commit, working tree clean
+PS C:\Users\User\Desktop\zadanie piosenka> git log
+commit 52be6b1df9b755a19a41d76ee4c72227a61ddedb (HEAD -> master)
+Author: Nicolas <woroszylomikolaj@gmail.com>
+Date:   Tue Dec 13 01:32:02 2022 +0100
+
+     dodano gi log -p zwrotka3.txt
+
+commit 939ce01e037efae1f482623973e21bd670ad3e1d
+Author: Nicolas <woroszylomikolaj@gmail.com>
+Date:   Tue Dec 13 01:30:45 2022 +0100
+
+     dodano gi log -p zwrotka2.txt
+
+commit ca534a4c04ea7169df6c1938813958ba369c3ee0
+Author: Nicolas <woroszylomikolaj@gmail.com>
+Date:   Tue Dec 13 01:29:09 2022 +0100
+
+    dodano git log -p zwrotka1.txt
+
+commit 00f1d3a793006ce086838e65788f651a16496275
+Author: Nicolas <woroszylomikolaj@gmail.com>
+Date:   Tue Dec 13 01:27:50 2022 +0100
+
+    dodano git log -p refren.txt
+
+:...skipping...
+commit 52be6b1df9b755a19a41d76ee4c72227a61ddedb (HEAD -> master)
+Author: Nicolas <woroszylomikolaj@gmail.com>
+Date:   Tue Dec 13 01:32:02 2022 +0100
+
+     dodano gi log -p zwrotka3.txt
+
+commit 939ce01e037efae1f482623973e21bd670ad3e1d
+Author: Nicolas <woroszylomikolaj@gmail.com>
+Date:   Tue Dec 13 01:30:45 2022 +0100
+
+     dodano gi log -p zwrotka2.txt
+
+commit ca534a4c04ea7169df6c1938813958ba369c3ee0
+Author: Nicolas <woroszylomikolaj@gmail.com>
+Date:   Tue Dec 13 01:29:09 2022 +0100
+
+    dodano git log -p zwrotka1.txt
+
+commit 00f1d3a793006ce086838e65788f651a16496275
+Author: Nicolas <woroszylomikolaj@gmail.com>
+Date:   Tue Dec 13 01:27:50 2022 +0100
+
+    dodano git log -p refren.txt
+
+commit 0c8e064c328038a668f46037cfc4b2a166c91b85
+Author: Nicolas <woroszylomikolaj@gmail.com>
+Date:   Tue Dec 13 01:26:27 2022 +0100
+
+:...skipping...
+commit 52be6b1df9b755a19a41d76ee4c72227a61ddedb (HEAD -> master)
+Author: Nicolas <woroszylomikolaj@gmail.com>
+Date:   Tue Dec 13 01:32:02 2022 +0100
+
+     dodano gi log -p zwrotka3.txt
+
+commit 939ce01e037efae1f482623973e21bd670ad3e1d
+Author: Nicolas <woroszylomikolaj@gmail.com>
+Date:   Tue Dec 13 01:30:45 2022 +0100
+
+     dodano gi log -p zwrotka2.txt
+
+commit ca534a4c04ea7169df6c1938813958ba369c3ee0
+Author: Nicolas <woroszylomikolaj@gmail.com>
+Date:   Tue Dec 13 01:29:09 2022 +0100
+
+    dodano git log -p zwrotka1.txt
+
+commit 00f1d3a793006ce086838e65788f651a16496275
+Author: Nicolas <woroszylomikolaj@gmail.com>
+Date:   Tue Dec 13 01:27:50 2022 +0100
+
+    dodano git log -p refren.txt
+
+commit 0c8e064c328038a668f46037cfc4b2a166c91b85
+Author: Nicolas <woroszylomikolaj@gmail.com>
+Date:   Tue Dec 13 01:26:27 2022 +0100
+
+    dodano git log -p piosenka.txt
+
+commit 6f630b059c10cc1cf363b417901f2b571687236d
+Author: Nicolas <woroszylomikolaj@gmail.com>
