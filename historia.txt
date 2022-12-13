@@ -402,3 +402,22 @@ index 0000000..a214432
 +Przy kochanej mej dziewczynie
 \ No newline at end of file
 PS C:\Users\User\Desktop\zadanie piosenka>
+PS C:\Users\User\Desktop\zadanie piosenka> git log -p zwrotka3.txt
+commit e00f1a7e06db19fea1a66fdfb2167d1957987da4
+Author: Nicolas <woroszylomikolaj@gmail.com>
+Date:   Tue Dec 13 00:54:17 2022 +0100
+
+    dodano zwrotka3
+
+diff --git a/zwrotka3.txt b/zwrotka3.txt
+new file mode 100644
+index 0000000..303cbd6
+--- /dev/null
++++ b/zwrotka3.txt
+@@ -0,0 +1,4 @@
++Ona jedna tam została
++Jaskółeczka moja mała
++A ja tutaj w obcej stronie
++Dniem i nocą tęsknię do niej
+\ No newline at end of file
+PS C:\Users\User\Desktop\zadanie piosenka>
