@@ -383,3 +383,22 @@ index 0000000..9f56cdd
 +Jeszcze czulej z Ukrainą
 \ No newline at end of file
 PS C:\Users\User\Desktop\zadanie piosenka>
+PS C:\Users\User\Desktop\zadanie piosenka> git log -p zwrotka2.txt
+commit 30c4aacc3707b6f7b9eca94374c5037a11a461ff
+Author: Nicolas <woroszylomikolaj@gmail.com>
+Date:   Tue Dec 13 00:47:00 2022 +0100
+
+    dodano zwrotka2
+
+diff --git a/zwrotka2.txt b/zwrotka2.txt
+new file mode 100644
+index 0000000..a214432
+--- /dev/null
++++ b/zwrotka2.txt
+@@ -0,0 +1,4 @@
++Wiele dziewcząt jest na świecie
++Lecz najwięcej w Ukrainie
++Tam me serce pozostało
++Przy kochanej mej dziewczynie
+\ No newline at end of file
+PS C:\Users\User\Desktop\zadanie piosenka>
